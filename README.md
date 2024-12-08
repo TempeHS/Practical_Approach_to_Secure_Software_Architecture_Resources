@@ -16,15 +16,16 @@ The skills and tools can also be directly applied to supporting students with th
 - [Codespaces](https://github.com/features/codespaces)
 - [GitHub Education](https://github.com/education)
 
-## Session 2 - Intro to Flask
+## Session 2 - Introduction to Flask
 
 - [Workshop README.md](/Session_2_Flask_Intro/README.md)
 - [Python Flask PWA Source](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Source) & [Python Flask PWA Template](https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template)
 - [Flask PWA API Extension Task Source](https://github.com/TempeHS/Flask_PWA_API_Extension_Task_Source) & [Flask PWA API Extension_Task_Template](https://github.com/TempeHS/Flask_PWA_API_Extension_Task_Template)
 
-## Session 3 - Practical Approach to vulnerabilities
+## Session 3 - Practical Approach to Vulnerabilities
 
 - [The Unsecure PWA](https://github.com/TempeHS/The_Unsecure_PWA)
+- [The Unsecure PWA Solutions](<https://schoolsnsw.sharepoint.com/:b:/r/sites/TASNSWStatewideStaffroom/Shared%20Documents/13.%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20Software%20Engineering%2011-12/Secure%20Software%20Architecture/Unsecure%20PWA%20Potential%20Solutions%20(1).pdf?csf=1&web=1&e=VWPgRG>) _*TEACHERS ONLY*_
 - [Secure Flask Template](https://github.com/TempeHS/Secure_Flask_PWA_Template)
 
 ## Session 5 - Implementing 2 Factor Authentication
