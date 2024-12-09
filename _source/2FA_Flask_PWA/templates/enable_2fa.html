@@ -1,0 +1,28 @@
+<!--https://getbootstrap.com/docs/5.3/forms/overview/-->
+{% extends 'layout.html' %} {% block content %} 
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h1>Welcome Enable 2FA </h1>
+
+      <h1>Scan this QR Code with Google Authenticator</h1>
+
+      <div>
+        <h2>Scan the QR code with your 2FA app</h2>
+        <img src="data:image/png;base64,{{ qr_code }}">
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <form action="/enable_2fa.html" method="post">
+      <label for="otp">Enter the OTP from your app:</label><br>
+      <input type="text" id="otp" name="otp"><br>
+      <input type="submit" value="Verify">
+    </form>
+
+  </div>
+</div>
+
+
+{% endblock %}
