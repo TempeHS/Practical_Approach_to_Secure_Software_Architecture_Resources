@@ -1,0 +1,9 @@
+{% extends 'layout.html' %} {% block content %} {% if is_logged_in %}
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h1>You are logged in!</h1>
+    </div>
+  </div>
+</div>
+{% else %} {% include "partials/login_form.html" %} {% endif %} {% endblock %}
