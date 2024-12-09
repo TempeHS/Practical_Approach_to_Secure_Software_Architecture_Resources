@@ -1,0 +1,6 @@
+-- database: ./database.db
+
+CREATE TABLE TLD91_USERS (
+    email text PRIMARY KEY NOT NULL,
+    password INTEGER NOT NULL
+);
