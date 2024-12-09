@@ -1,5 +1,16 @@
 # A practical approach to 'Secure Software Architecture' in Software Engineering
 
+Thanks all for a great day, we really hope you got lots out of the day. Please note we have added a dependency 'pypng' you will need to manually `pip install pypng` to get the 2FA component working.
+
+Here is the recommended homework from the day:
+
+1. If you haven't complete the Flask PWA task: https://github.com/TempeHS/Flask_PWA_Programming_For_The_Web_Task_Template some of you may way to do this a second time so you can apply why you have learnt.
+2. Complete the API/PWA extension you are building the same app but with a API and a PWA UI
+3. Follow the [powerpoint](https://github.com/TempeHS/Practical_Approach_to_Secure_Software_Architecture_Resources/blob/main/_working_documents/Workshop_Presentation.pptx) to implement the 2FA in the application you have built today
+4. Slowly step through the vulnerabilities documented in the [.student_resources](https://github.com/TempeHS/The_Unsecure_PWA/tree/main/.student_resources) folder of the unsecure PWA and try some of the manual penetration testing approaches: https://github.com/TempeHS/The_Unsecure_PWA
+
+## README.md form the day:
+
 A practical and hands-on day in a small group, supportive environment for teachers to build their confidence, skills and tools to deliver the [NESA Software Engineering course](https://curriculum.nsw.edu.au/learning-areas/tas/software-engineering-11-12-2022/overview). Focusing on the 2 focus areas ‘Secure Software Architecture’ and ‘Programming for the Web’.
 The skills and tools can also be directly applied to supporting students with the design and development of their ‘Software Engineering Project’ or easily creating a user interface for ‘Software Automation’.
 
